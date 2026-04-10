@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de <strong>Sistemas de Informação</strong> na UniCatólica · Quixadá, CE<br/>
-  Apaixonado por tecnologia, desenvolvimento web, jogos e inteligência artificial 🚀
+  Apaixonado por tecnologia e desenvolvimento web 🚀
 </p>
 
 ---
@@ -41,9 +41,9 @@
 ### 🚀 Sobre mim
 
 - 🎓 Estudando **Sistemas de Informação** na UniCatólica (Quixadá - CE)
-- ☕ Focado em **Java** como linguagem principal
+- 💻 Focado em **Java** como linguagem principal
 - 🌐 Explorando **front-end e back-end** com HTML, CSS e JavaScript
-- 🧠 Interesse em **Desenvolvimento web** e **Inteligência Artificial**
+- 🤖 Interesse em **Inteligência Artificial**
 - 🎯 Objetivo: evoluir como desenvolvedor **full stack** e ingressar no mercado de tech
 
 ---
