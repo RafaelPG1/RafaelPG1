@@ -16,11 +16,18 @@ jobs:
 
       - name: Download stats card
         run: |
-          curl -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=RafaelPG1&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"
+          curl --fail -o profile/stats.svg "https://github-readme-stats-salesp07.vercel.app/api?username=RafaelPG1&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true" \
+          || curl -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=RafaelPG1&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"
 
       - name: Download langs card
         run: |
-          curl -o profile/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPG1&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"
+          curl --fail -o profile/langs.svg "https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RafaelPG1&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br" \
+          || curl -o profile/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPG1&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"
+
+      - name: Verify SVGs are valid
+        run: |
+          grep -q "<svg" profile/stats.svg || (echo "stats.svg invalido!" && exit 1)
+          grep -q "<svg" profile/langs.svg || (echo "langs.svg invalido!" && exit 1)
 
       - name: Commit cards
         run: |
