@@ -32,8 +32,8 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelPG1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelPG1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+  <img src="./profile/stats.svg" height="150" alt="stats graph" />
+  <img src="./profile/langs.svg" height="150" alt="languages graph" />
 </div>
 
 ---
@@ -41,9 +41,9 @@
 ### 🚀 Sobre mim
 
 - 🎓 Estudando **Sistemas de Informação** na UniCatólica (Quixadá - CE)
-- 💻 Focado em **Java** como linguagem principal
+- ☕ Focado em **Java** como linguagem principal
 - 🌐 Explorando **front-end e back-end** com HTML, CSS e JavaScript
-- 🤖 Interesse em **Inteligência Artificial**
+- 🧠 Interesse em **Desenvolvimento web** e **Inteligência Artificial**
 - 🎯 Objetivo: evoluir como desenvolvedor **full stack** e ingressar no mercado de tech
 
 ---
