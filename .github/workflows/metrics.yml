@@ -21,7 +21,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: RafaelPG1
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity
           config_timezone: America/Fortaleza
           config_output: svg
           output_action: commit
