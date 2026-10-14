@@ -2,13 +2,11 @@
 
 *Aprendendo e construindo, um projeto de cada vez.*
 
-<img align="right" src="./assets/mascote.png" height="370" alt="Mascote do perfil" />
-
 - 🎓 Estudante de **Sistemas de Informação** na UniCatólica, em Quixadá - CE
 - 💡 Interesse em **desenvolvimento de software** e **inteligência artificial**
 - 🛠️ Gosto de criar projetos e de ver como programação e IA podem resolver problemas
 - 🎮 Fora do código: jogos e tecnologia
-- 🎯 Objetivo: evoluir como desenvolvedor e ampliar meus conhecimentos
+- <img align="right" src="./assets/mascote.png" height="370" alt="Mascote do perfil" />🎯 Objetivo: evoluir como desenvolvedor e ampliar meus conhecimentos
 
 <img align="left" vspace="4" src="https://github-stats-extended.vercel.app/api?username=RafaelPG1&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true" width="400" alt="Estatísticas do GitHub de RafaelPG1" />
 <img align="left" vspace="4" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RafaelPG1&amp;layout=compact&amp;theme=radical&amp;langs_count=8" width="400" alt="Linguagens mais usadas por RafaelPG1" />
