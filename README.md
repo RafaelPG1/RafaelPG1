@@ -2,8 +2,11 @@
 
 *Aprendendo e construindo, um projeto de cada vez.*
 
-Sou estudante de **Sistemas de Informação** na UniCatólica de Quixadá, com interesse em **desenvolvimento de software** e **inteligência artificial**.
-Gosto de criar projetos e de explorar como a programação e a IA podem resolver problemas. Fora do código, curto jogos e tecnologia.
+- 🎓 Estudante de **Sistemas de Informação** na UniCatólica, em Quixadá - CE
+- 💡 Interesse em **desenvolvimento de software** e **inteligência artificial**
+- 🛠️ Gosto de criar projetos e de ver como programação e IA podem resolver problemas
+- 🎮 Fora do código: jogos e tecnologia
+- 🎯 Objetivo: evoluir como desenvolvedor e ampliar meus conhecimentos
 
 <table>
   <tr>
