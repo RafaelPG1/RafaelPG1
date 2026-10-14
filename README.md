@@ -17,7 +17,7 @@
     </td>
     <td align="center" valign="middle" width="260">
       <!-- MASCOTE (espaço reservado): envie assets/mascote.png (PNG com fundo transparente, altura próxima à dos dois cards, uns 290 px) e troque as duas linhas de comentário abaixo pela imagem. -->
-      <!-- <img src="./assets/mascote.png" height="290" alt="Mascote do perfil" /> -->
+      <img src="./assets/mascote.png" height="290" alt="Mascote do perfil" />
     </td>
   </tr>
 </table>
