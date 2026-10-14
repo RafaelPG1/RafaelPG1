@@ -8,19 +8,13 @@
 - 🎮 Fora do código: jogos e tecnologia
 - 🎯 Objetivo: evoluir como desenvolvedor e ampliar meus conhecimentos
 
-<table>
-  <tr>
-    <td valign="top" width="430">
-      <img src="https://github-stats-extended.vercel.app/api?username=RafaelPG1&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true" width="400" alt="Estatísticas do GitHub de RafaelPG1" />
-      <br />
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RafaelPG1&amp;layout=compact&amp;theme=radical&amp;langs_count=8" width="400" alt="Linguagens mais usadas por RafaelPG1" />
-    </td>
-    <td align="center" valign="middle" width="260">
-      <!-- MASCOTE (espaço reservado): envie assets/mascote.png (PNG com fundo transparente, altura próxima à dos dois cards, uns 290 px) e troque as duas linhas de comentário abaixo pela imagem. -->
-      <img src="./assets/mascote.png" height="290" alt="Mascote do perfil" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="./assets/mascote.png" height="370" alt="Mascote do perfil" />
+
+<img src="https://github-stats-extended.vercel.app/api?username=RafaelPG1&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true" width="400" alt="Estatísticas do GitHub de RafaelPG1" />
+<br />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RafaelPG1&amp;layout=compact&amp;theme=radical&amp;langs_count=8" width="400" alt="Linguagens mais usadas por RafaelPG1" />
+
+<br clear="all" />
 
 ---
 
