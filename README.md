@@ -10,9 +10,8 @@
 
 <img align="right" src="./assets/mascote.png" height="370" alt="Mascote do perfil" />
 
-<img src="https://github-stats-extended.vercel.app/api?username=RafaelPG1&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true" width="400" alt="Estatísticas do GitHub de RafaelPG1" />
-<br />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RafaelPG1&amp;layout=compact&amp;theme=radical&amp;langs_count=8" width="400" alt="Linguagens mais usadas por RafaelPG1" />
+<img align="left" vspace="4" src="https://github-stats-extended.vercel.app/api?username=RafaelPG1&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true" width="400" alt="Estatísticas do GitHub de RafaelPG1" />
+<img align="left" vspace="4" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RafaelPG1&amp;layout=compact&amp;theme=radical&amp;langs_count=8" width="400" alt="Linguagens mais usadas por RafaelPG1" />
 
 <br clear="all" />
 
