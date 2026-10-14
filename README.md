@@ -26,9 +26,13 @@
 
 ## 🛠️ Tecnologias
 
-**Front-end** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="36" alt="HTML5" title="HTML5" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="36" alt="CSS3" title="CSS3" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />
+**Front-end**
 
-**Conhecimentos básicos** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="36" alt="Java" title="Java" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="36" alt="Python" title="Python" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="36" alt="HTML5" title="HTML5" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="36" alt="CSS3" title="CSS3" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />
+
+**Conhecimentos básicos**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="36" alt="Java" title="Java" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="36" alt="Python" title="Python" />
 
 ---
 
